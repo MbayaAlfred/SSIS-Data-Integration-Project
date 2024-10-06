@@ -1,5 +1,5 @@
 # SSIS-Data-Integration-Project
-![Data Flow Overview](images/ssis_data_flow.png)
+![Data Flow Overview](split.png)
 
 In this SSIS package:
 - **Excel Source**: Loads data from an Excel file 
